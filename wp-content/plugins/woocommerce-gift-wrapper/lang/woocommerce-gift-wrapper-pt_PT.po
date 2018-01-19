@@ -1,0 +1,215 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Woocommerce Gift Wrapper\n"
+"POT-Creation-Date: 2017-08-19 16:58-0700\n"
+"PO-Revision-Date: 2017-08-19 16:58-0700\n"
+"Last-Translator: Solnas\n"
+"Language-Team: \n"
+"Language: pt_PT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: woocommerce-gift-wrapper.php\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: classes/class-gift-wrapper-admin.php:47
+#: classes/class-gift-wrapper-admin.php:51
+#: classes/class-gift-wrapper-admin.php:65
+#: classes/class-gift-wrapper-admin.php:75
+msgid "Gift Wrap Note"
+msgstr "Nota à prenda"
+
+#: classes/class-gift-wrapper-settings.php:27
+msgid "Settings"
+msgstr "Configurações"
+
+#: classes/class-gift-wrapper-settings.php:40
+msgid "Gift Wrapping"
+msgstr "Embrulho como prenda"
+
+#: classes/class-gift-wrapper-settings.php:71
+msgid "Gift Wrapping Options"
+msgstr "Opções"
+
+#: classes/class-gift-wrapper-settings.php:73
+#, php-format
+msgid ""
+"Start by <a href=\"%s\" target=\"_blank\">adding at least one product</a> "
+"called \"Gift Wrapping\" or something similar."
+msgstr ""
+"Comece <a href=\"%s\" target=\"_blank\">adicionando pelo menos um produto</"
+"a> chamado \"Embrulho de presente\" ou algo semelhante."
+
+#: classes/class-gift-wrapper-settings.php:73
+msgid ""
+"Create a unique product category for this/these gift wrapping product(s), "
+"and add them to this category."
+msgstr ""
+"Criar uma categoria de produto exclusivo para produto(s) de embrulhos para "
+"presente nestes e adicioná-los para esta categoria."
+
+#: classes/class-gift-wrapper-settings.php:73
+msgid "Then consider the options below."
+msgstr "Então considere as opções abaixo."
+
+#: classes/class-gift-wrapper-settings.php:78
+msgid "Where to Show Gift Wrapping"
+msgstr "Onde quer mostrar a opção de embrulho"
+
+#: classes/class-gift-wrapper-settings.php:79
+msgid ""
+"Choose where to show gift wrap options to the customer on the cart page. You "
+"may choose more than one."
+msgstr ""
+"Escolha onde mostrar opções de embrulho de presente para o cliente na página "
+"do carrinho. Você pode escolher mais de um."
+
+#: classes/class-gift-wrapper-settings.php:83
+msgid "Under Coupon Field in Cart"
+msgstr "Por baixo do campo do cupão"
+
+#: classes/class-gift-wrapper-settings.php:84
+msgid "Before Cart"
+msgstr "Antes do carrinho"
+
+#: classes/class-gift-wrapper-settings.php:85
+msgid "Above Totals Field in Cart"
+msgstr "Em baixo dos totais no carrinho"
+
+#: classes/class-gift-wrapper-settings.php:86
+msgid "Before Checkout"
+msgstr "Antes de finalizar compra"
+
+#: classes/class-gift-wrapper-settings.php:93
+msgid "Gift Wrap Category"
+msgstr "Categoria de embrulho de presente"
+
+#: classes/class-gift-wrapper-settings.php:94
+msgid "Define the category which holds your gift wrap product(s)."
+msgstr "Defina a categoria que detém seu envoltório de presente produto(s)."
+
+#: classes/class-gift-wrapper-settings.php:100
+msgid "Define a Category"
+msgstr "Definir uma categoria"
+
+#: classes/class-gift-wrapper-settings.php:106
+msgid "Show Gift Wrap Thumbs in Cart"
+msgstr "Mostrar no Carrinho"
+
+#: classes/class-gift-wrapper-settings.php:107
+msgid "Should gift wrap product thumbnail images be visible in the cart?"
+msgstr ""
+"Imagens em miniatura da presente envoltório do produto devem ser visíveis no "
+"carrinho?"
+
+#: classes/class-gift-wrapper-settings.php:111
+#: classes/class-gift-wrapper-settings.php:124
+#: classes/class-gift-wrapper-settings.php:137
+msgid "Yes"
+msgstr "Sim"
+
+#: classes/class-gift-wrapper-settings.php:112
+#: classes/class-gift-wrapper-settings.php:125
+#: classes/class-gift-wrapper-settings.php:138
+msgid "No"
+msgstr "Não"
+
+#: classes/class-gift-wrapper-settings.php:119
+msgid "Allow more than one gift wrap product in cart?"
+msgstr "Permitir que mais de um produto de envoltório presente no carrinho?"
+
+#: classes/class-gift-wrapper-settings.php:120
+msgid ""
+"If yes, customers can buy more than one gift wrapping product in one order."
+msgstr ""
+"Se sim, os clientes podem adquirir mais de um produto embrulho em uma ordem."
+
+#: classes/class-gift-wrapper-settings.php:132
+msgid "Should Gift Wrap option open in pop-up?"
+msgstr "Opção de Gift Wrap deve abrir em pop-up?"
+
+#: classes/class-gift-wrapper-settings.php:133
+msgid ""
+"If checked, there will be a link (\"header\") in the cart, which when "
+"clicked will open a window for customers to choose gift wrapping options. It "
+"can be styled and might be a nicer option for your site. NOTE: modal does "
+"not work with the Avada theme."
+msgstr ""
+"Se marcada, haverá um link (\"cabeçalho\") no carrinho, que quando clicado "
+"irá abrir uma janela para que os clientes escolher opções de embrulhos para "
+"presente. Ele pode ser estilo e pode ser uma opção melhor para o seu site. "
+"Nota: modal não funciona com o tema Avada."
+
+#: classes/class-gift-wrapper-settings.php:145
+msgid "Gift Wrap Details"
+msgstr "Detalhes de embrulho de presente"
+
+#: classes/class-gift-wrapper-settings.php:146
+msgid ""
+"Optional text to give any details or conditions of your gift wrap offering. "
+"This text is not translatable by Wordpress i18n."
+msgstr ""
+"Texto opcional para dar quaisquer detalhes ou condições do presente ajustado "
+"oferta. Este texto não é traduzível por Wordpress i18n."
+
+#: classes/class-gift-wrapper-settings.php:154
+msgid "Textarea Character Limit"
+msgstr "Limite de caracteres"
+
+#: classes/class-gift-wrapper-settings.php:155
+msgid ""
+"How many characters your customer can type when creating their own note for "
+"giftwrapping. Defaults to 1000 characters; lower this number if you want "
+"more brief comments from your customers."
+msgstr ""
+"Quantos caracteres seu cliente pode digitar ao criar a sua própria nota para "
+"giftwrapping. O padrão é 1000 caracteres; Baixe este número se quiser mais "
+"breves comentários de seus clientes."
+
+#: woocommerce-gift-wrapper.php:354
+msgid "Add Gift Wrap Message:"
+msgstr "Adicionar uma mensagem:"
+
+#: woocommerce-gift-wrapper.php:372 woocommerce-gift-wrapper.php:431
+#: woocommerce-gift-wrapper.php:515 woocommerce-gift-wrapper.php:578
+#: woocommerce-gift-wrapper.php:650
+msgid "Add gift wrapping?"
+msgstr "Deseja adicionar um embrulho para prenda?"
+
+#: woocommerce-gift-wrapper.php:382
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: woocommerce-gift-wrapper.php:396 woocommerce-gift-wrapper.php:447
+#: woocommerce-gift-wrapper.php:527 woocommerce-gift-wrapper.php:591
+#: woocommerce-gift-wrapper.php:662
+msgid "Add Gift Wrap to Order"
+msgstr "Adicionar à encomenda"
+
+#: woocommerce-gift-wrapper.php:465 woocommerce-gift-wrapper.php:542
+#: woocommerce-gift-wrapper.php:604 woocommerce-gift-wrapper.php:677
+msgid "Are you sure you want to replace the gift wrap in your cart?"
+msgstr ""
+"Você tem certeza que deseja substituir o presente envolva em seu carrinho?"
+
+#. Plugin Name of the plugin/theme
+msgid "Woocommerce Gift Wrapper"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"This plugin shows gift wrap options on the WooCommerce cart and/or checkout "
+"page, and adds gift wrapping to the order"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Little Package"
+msgstr ""
